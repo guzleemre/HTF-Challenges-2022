@@ -9,7 +9,7 @@
 
 
 [Azure Static Web Apps](https://docs.microsoft.com/azure/static-web-apps/overview) allows you to easily build static web apps in minutes.  
-Use this repo with the [Angular quickstart](https://docs.microsoft.com/azure/static-web-apps/getting-started?tabs=angular) to build and customize a new static site.
+Use this repo with the [Angular quickstart](https://learn.microsoft.com/nl-nl/azure/static-web-apps/get-started-portal?tabs=angular&pivots=github) to build and customize a new static site.
 
 
 ## Instructions for relaying the message to the Dominus
